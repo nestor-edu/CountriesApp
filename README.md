@@ -1,5 +1,7 @@
 # CountryApp
 
+Search countries by capital, country and region consuming the https://restcountries.com/v3.1 API
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
 ## Development server
